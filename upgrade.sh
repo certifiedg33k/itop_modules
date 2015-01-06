@@ -26,5 +26,5 @@ chmod 777 /opt/data/itop/conf/production/config-itop.php
 chown -R www-data:www-data /opt/data/itop
 
 # MySQL Backup
-#mysql -u root -pN@kheel -e "drop database cmdb"
-mysqldump -u root -pN@kheel cmdb > cmdb.sql
+#mysql -u root -p -e "drop database cmdb"
+mysqldump -u root -p cmdb > cmdb.sql
