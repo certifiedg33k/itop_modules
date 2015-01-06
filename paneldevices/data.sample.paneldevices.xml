@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Set>
+<LocationType alias="Location Type" id="1">
+<name>Data Room</name>
+</LocationType>
+<LocationType alias="Location Type" id="2">
+<name>Building</name>
+</LocationType>
+<LocationType alias="Location Type" id="3">
+<name>Server Room</name>
+</LocationType>
+<CableType alias="Cable Type" id="1">
+<name>Copper UTP CAT5</name>
+</CableType>
+<CableType alias="Cable Type" id="2">
+<name>Copper UTP CAT5e</name>
+</CableType>
+<CableType alias="Cable Type" id="3">
+<name>Copper UTP CAT6</name>
+</CableType>
+<CableType alias="Cable Type" id="4">
+<name>Fiber Singlemode</name>
+</CableType>
+<CableType alias="Cable Type" id="5">
+<name>Fiber Multimode</name>
+</CableType>
+<ConnectorType alias="Connector Type" id="1">
+<name>Copper RJ45</name>
+</ConnectorType>
+<ConnectorType alias="Connector Type" id="2">
+<name>Fiber LC Connector</name>
+</ConnectorType>
+<ConnectorType alias="Connector Type" id="3">
+<name>Fiber SC Connector</name>
+</ConnectorType>
+</Set>
